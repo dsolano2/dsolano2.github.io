@@ -1,6 +1,17 @@
 body {
 	font-family: monospace;
-	background-color: greenyellow;}
+	background-color: black;}
 h1 {
-	color: orangered;}
+    background-color: black;
+    margin-left: 10rem;
+    width: 25rem;
+    padding: .5rem; 
+	color: orange;
+font-family: serif}
 p {color: orange;}
+footer {background-color: sandybrown;
+    margin-left: 10rem;
+width: 20rem}
+nav {background-color: gold;
+    margin-left: 8rem;
+width: 24rem};
